@@ -12,8 +12,10 @@ h1{
 }
 
 img {
-  width: 500px;
-  height: auto;
+  display: block;
+  margin: 0 auto 80px;
+  width: 600px;
+  height: 400px;
 }
 
 ul > li{
