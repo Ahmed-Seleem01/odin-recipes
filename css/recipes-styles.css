@@ -17,6 +17,7 @@ img {
   margin: 0 auto 100px;
   width: 700px;
   height: 500px;
+  border-radius: 10px;
 }
 h2{
   font-family: 'Times New Roman', Times, serif;
@@ -30,4 +31,18 @@ p{
 ol, ul{
   line-height: 30px;
   font-size: 1.1rem;
+}
+
+button{
+  font-size: 1.2rem;
+  padding: 20px;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+button a{
+  text-decoration: none;
+  color: black;
+  
 }
