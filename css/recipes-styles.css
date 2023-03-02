@@ -6,7 +6,7 @@ body{
 
 h1{
   font-family: 'Times New Roman', Times, serif;
-  font-size: 50px;
+  
   margin-bottom: 50px;
   text-align: center;
   color: rgb(197, 66, 26);
@@ -21,14 +21,13 @@ img {
 h2{
   font-family: 'Times New Roman', Times, serif;
   color: rgb(7, 81, 240);
-  font-size: 40px;
 }
 p{
   padding-left: 30px;
-  font-size: 1.3em;
+  font-size: 1.1em;
 }
 
 ol, ul{
   line-height: 30px;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
