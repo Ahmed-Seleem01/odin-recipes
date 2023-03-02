@@ -41,6 +41,10 @@ button{
   border-radius: 10px;
 }
 
+button:hover{
+  background-color: #90ee90;
+}
+
 button a{
   text-decoration: none;
   color: black;
